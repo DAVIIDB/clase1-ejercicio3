@@ -27,7 +27,7 @@ namespace contador_de_palabras
 
 
             Console.WriteLine(parrafob);
-
+               
 
 
 
